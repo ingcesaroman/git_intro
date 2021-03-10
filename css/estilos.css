@@ -2,9 +2,6 @@ body
 {
     color: gray;
     text-align:center;
-<<<<<<< HEAD
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-=======
     font-family: "Arial";
     margin: 0;
     padding: 0;
@@ -38,5 +35,4 @@ body
 #conteiner h1
 {
     font-size: 20px;
->>>>>>> staging
 }
